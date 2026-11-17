@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "api-jooxtt.sanook.com",
+        "api.joox.com",
+        "joox.com",
+        "xnotify.xboxlive.com",
+        "proxy.golang.org",
+        "heartbeat.belkin.com",
+        "lens.l.google.com",
+        "na.b.g-tun.com",
+        "shark007.net",
+        "adguardteam.github.io",
+        "adrules.top",
+        "anti-ad.net",
+        "static.adtidy.org"
+      ],
+      "domain_suffix": [
+        "linksys.com",
+        "dynv6.net",
+        "battle.net",
+        "wargaming.net",
+        "linksyssmartwifi.com",
+        "ffxiv.com",
+        "square-enix.com",
+        "finalfantasyxiv.com",
+        "srv.nintendo.net",
+        "media.dssott.com",
+        "cdn.nintendo.net"
+      ],
+      "domain_regex": [
+        "^time\\..*\\.com$",
+        "^time\\..*\\.gov$",
+        "^time1\\..*\\.com$",
+        "^time2\\..*\\.com$",
+        "^time3\\..*\\.com$",
+        "^time4\\..*\\.com$",
+        "^time5\\..*\\.com$",
+        "^time6\\..*\\.com$",
+        "^time7\\..*\\.com$",
+        "^ntp\\..*\\.com$",
+        "^ntp1\\..*\\.com$",
+        "^ntp2\\..*\\.com$",
+        "^ntp3\\..*\\.com$",
+        "^ntp4\\..*\\.com$",
+        "^ntp5\\..*\\.com$",
+        "^ntp6\\..*\\.com$",
+        "^ntp7\\..*\\.com$",
+        "^xbox\\..*\\..*\\.microsoft\\.com$",
+        "^.*\\..*\\.xboxlive\\.com$",
+        "^xbox\\..*\\.microsoft\\.com$",
+        "^(.*\\.)?stun\\..*\\..*$",
+        "^(.*\\.)?stun\\..*\\..*\\..*$",
+        "^(.*\\.)?stun\\..*\\..*\\..*\\..*$",
+        "^(.*\\.)?stun\\..*\\..*\\..*\\..*\\..*$"
+      ]
+    }
+  ]
+}
